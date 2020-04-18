@@ -1,5 +1,5 @@
 # Get-KFC
-Automated KFC chicken bucket order via WOLT. 
+## Automated KFC chicken bucket order via WOLT. 
 
 Requirements:
   - Python 3 
