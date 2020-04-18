@@ -53,11 +53,14 @@ try:
         withemail = driver.find_element_by_class_name("initial_authentication__continue-email___13Kbr").click()
         time.sleep(5)
         username = driver.find_element_by_class_name("InputField__input___2Ed_-")
-        username.send_keys('') #USERNAME
+        print(Fore.WHITE + "WOLT credentials")
+        user = input(Fore.WHITE + "Email: ")
+        username.send_keys(user) #USERNAME
         go = driver.find_element_by_xpath("//button[@class='forms__form-button___2W4Ax forms__main___1_W0h']").click()
         time.sleep(5)
         password = driver.find_element_by_class_name("InputField__input___2Ed_-")
-        password.send_keys('') #PASSWORD
+        passw = input(Fore.WHITE + "Password: ")
+        password.send_keys(passw) #PASSWORD
         goTwo = driver.find_element_by_xpath("//button[@class='forms__form-button___2W4Ax forms__main___1_W0h']/span[.='Prisijungti']").click()
         time.sleep(5)
         element = driver.find_element_by_xpath("//p[.='1×Traškių lazdelių kibirėlis keturiems, 15 vnt.']").click()
