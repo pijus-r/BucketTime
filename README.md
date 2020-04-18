@@ -16,6 +16,7 @@ Default order: 1 × Crispy stick bucket for four, 15 pcs.
  cd Get-KFC
  sudo pip3 install selenium colorama pyfiglet
  # Add your own WOLT credentials in bucket.py
+ # Uncomment to make an actual order (line 77): "orderGo.click()"
  python3 bucket.py
 ```
 
