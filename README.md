@@ -25,4 +25,4 @@
  - Easy install
  - ~~Ability to login without changing the code (terminal)~~
  - Change delivery address (terminal)
- - Select specific chicken bucket and extras (terminal)
+ - Select specific chicken bucket and extras (CLI)
