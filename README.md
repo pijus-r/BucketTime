@@ -1,8 +1,8 @@
 # Get-KFC
 ##### Automated KFC chicken bucket order via [WOLT](https://wolt.com/lt/discovery). 
- ```sh
-1 × Crispy stick bucket for four, 15 pcs.
-```
+
+######1 × Crispy stick bucket for four, 15 pcs.
+
  Requirements:
   - Python 3 
   - Selenium and Webdriver (Chrome was used in this instance)
