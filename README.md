@@ -20,5 +20,7 @@ Requirements:
 ### Todos
 
  - Launch script via command (anywhere from computer)
- - Ability to login without changing the code (terminal)
+ - Easy install
+ - ~~Ability to login without changing the code (terminal)~~
+ - Change delivery address (terminal)
  - Select specific meal (terminal)
