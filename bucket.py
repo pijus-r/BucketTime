@@ -1,4 +1,3 @@
-
 from selenium import webdriver
 from colorama import Fore, Back, Style
 import pyfiglet
@@ -15,6 +14,7 @@ import itertools
 import threading
 import time
 import sys
+from getpass import getpass
 
 done = False
 warnings.filterwarnings('ignore')
@@ -59,7 +59,7 @@ try:
         go = driver.find_element_by_xpath("//button[@class='forms__form-button___2W4Ax forms__main___1_W0h']").click()
         time.sleep(5)
         password = driver.find_element_by_class_name("InputField__input___2Ed_-")
-        passw = input(Fore.WHITE + "Password: ")
+        passw = getpass(Fore.WHITE + "Password: ")
         password.send_keys(passw) #PASSWORD
         goTwo = driver.find_element_by_xpath("//button[@class='forms__form-button___2W4Ax forms__main___1_W0h']/span[.='Prisijungti']").click()
         time.sleep(5)
