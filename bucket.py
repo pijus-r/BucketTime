@@ -36,7 +36,7 @@ try:
     time.sleep(6)
     nope = driver.find_element_by_xpath("//span[.='Gerai']")
     if nope.text == "Gerai":
-       print(Fore.RED + "\nŠiuo metu restoranas nedirba")
+       print("KFC is " + Fore.RED + "CLOSED\n")
     else:
         def animate():
             for c in itertools.cycle(['|', '/', '-']):
