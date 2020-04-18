@@ -1,7 +1,9 @@
 # Get-KFC
 ### Automated KFC chicken bucket order via WOLT. 
 
-Requirements:
+
+
+### Requirements:
   - Python 3 
   - Selenium and Webdriver (Chrome was used in this instance)
   - colorama
