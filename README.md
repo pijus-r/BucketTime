@@ -15,7 +15,6 @@ Default order: 1 × Crispy stick bucket for four, 15 pcs.
  git clone https://github.com/pijus-r/Get-KFC.git
  cd Get-KFC
  sudo pip3 install selenium colorama pyfiglet
- # Add your own WOLT credentials in bucket.py
  # Uncomment to make an actual order (line 77): 'orderGo.click()'
  python3 bucket.py
  # or 'python bucket.py' if Python version 3 is your default 
