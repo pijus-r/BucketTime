@@ -3,6 +3,9 @@
 
 Default order: 1 × Crispy stick bucket for four, 15 pcs.
 
+![alt text](https://github.com/pijus-r/Get-KFC/blob/master/screen.png?raw=true)
+
+
  Requirements:
   - Python 3 
   - Selenium and Webdriver (Chrome was used in this instance)
