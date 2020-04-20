@@ -23,7 +23,8 @@ Default order: 1 × Crispy stick bucket for four, 15 pcs.
 ### Todos
 
  - Launch code via command (anywhere from computer)
- - Easy install
- - ~~Ability to login without changing the code (terminal)~~
- - Change delivery address (terminal)
- - Select specific chicken bucket and extras (CLI)
+ - Easy install 
+ - Handle login failure
+ - ~~Ability to login without directly changing the code ~~
+ - Change delivery address 
+ - Select specific chicken bucket and extras
