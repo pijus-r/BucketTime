@@ -28,6 +28,5 @@ Default order: 1 × Crispy stick bucket for four, 15 pcs.
  - Launch code via command
  - Easy install 
  - Handle login failure
- - ~~Ability to login without directly changing the code ~~
  - Change delivery address 
  - Select specific chicken bucket and extras
