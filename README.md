@@ -25,7 +25,7 @@ Default order: 1 × Crispy stick bucket for four, 15 pcs.
 
 ### Todos
 
- - Launch code via command (anywhere from computer)
+ - Launch code via command
  - Easy install 
  - Handle login failure
  - ~~Ability to login without directly changing the code ~~
