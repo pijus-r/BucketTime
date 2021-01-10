@@ -1,4 +1,4 @@
-# Get-KFC
+# BucketTime
 ##### Automated KFC chicken bucket order via [WOLT](https://wolt.com/lt/discovery). 
 
 Default order: 1 × Crispy stick bucket for four, 15 pcs.
